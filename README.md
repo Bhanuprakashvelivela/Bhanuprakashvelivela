@@ -104,4 +104,4 @@ My technical acumen encompasses a wide array of -
 --> Logic Analyzer
 
 ## How to Contact Me
-[LinkedIn](https://www.linkedin.com/in/bpv25/)https://www.linkedin.com/in/bpv25/ . DM always open!
+[LinkedIn](https://www.linkedin.com/in/bpv25/). DM always open!
