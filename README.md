@@ -7,6 +7,7 @@ Experience in Developing applications for Automotive and Embedded Systems projec
 
 My technical acumen encompasses a wide array of -
 
+
 -->Software & Programming Languages: Cadence Virtuoso, Vector Tools (CANape, CANoe), Jenkins, MATLAB, Xilinx Vivado, LabVIEW, AutoCAD, Verilog, Embedded C, and C++.
 
 --> Testing Tools: CANoe, CANalyzer.
