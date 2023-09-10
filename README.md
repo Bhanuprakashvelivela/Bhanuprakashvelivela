@@ -23,48 +23,82 @@ My technical acumen encompasses a wide array of -
 ## Technical Skills
 ### Wired Protocols
 --> SPI
+
 --> I2C
+
 --> UART/USART
+
 --> CXPI (fancy cutting-edge wired protocol for automotive, used by Toyota)
+
 --> CAN bus
+
 --> USB
+
 --> Ethernet
+
 --> I2S (Audio)
 ### Wireless Protocols
+
 --> WiFi
+
 --> Bluetooth Classic
+
 --> Bluetooth Low Power (BLE)
+
 --> LoRaWAN
+
 --> NB-IoT
+
 --> GSM/LTE
+
 --> Visible-Light Communication (or VLC, I implemented it for my thesis back in the university)
+
 --> NFC/RFID
 ### Network Protocols
+
 --> TCP/IP
+
 --> UDP/IP
 ### Security & Integrity
+
 --> CRC32
+
 --> MD5
+
 --> AES
 ### Development Board bring-up
 ### Embedded Linux (still learning, mainly use Yocto)
 ### Embedded library development
 ### RTOS
 --> FreeRTOS
+
 --> Zephyr
 ### Microcontroller
-ESP32 (dual core MCU + WiFi and Bluetooth)
-ESP8266 (single core MCU + WiFi from Espressif)
-STM32 L0, L1, L4, F1 series
-AVR MCU
-Texas Instrument CCxxxx series
+
+--> ESP32 (dual core MCU + WiFi and Bluetooth)
+
+--> ESP8266 (single core MCU + WiFi from Espressif)
+
+--> STM32 L0, L1, L4, F1 series
+
+--> AVR MCU
+
+--> Texas Instrument CCxxxx series
 ### Hardware Development
+
 --> Schematic Design
+
 --> PCB design (still learning! I use KiCad)
+
 --> Board assembly
+
 --> Board testing
+
 --> Power Profiling (to achieve low-power, thus extending battery life)
 ### Electronic Equipment I Own
+
 --> 4-channel Oscilloscope
+
 --> Nice multimeter
+
 --> Logic Analyzer
