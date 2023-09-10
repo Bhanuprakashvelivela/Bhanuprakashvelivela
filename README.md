@@ -19,8 +19,8 @@ My technical acumen encompasses a wide array of -
 --> Microcontroller/Processor: Easily work with processor based on ARM Cortex M4-M7 32,16 and 8 bit architectures.
 
 ### Technical Skills
-• Wired Protocols
-SPI
+## Wired Protocols
+/ SPI
 I2C
 UART/USART
 CXPI (fancy cutting-edge wired protocol for automotive, used by Toyota)
