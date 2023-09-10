@@ -102,3 +102,6 @@ My technical acumen encompasses a wide array of -
 --> Nice multimeter
 
 --> Logic Analyzer
+
+## How to Contact Me
+https://www.linkedin.com/in/bpv25/ . DM always open!
