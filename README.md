@@ -7,8 +7,13 @@ Experience in Developing applications for Automotive and Embedded Systems projec
 
 My technical acumen encompasses a wide array of -
 -->Software & Programming Languages: Cadence Virtuoso, Vector Tools (CANape, CANoe), Jenkins, MATLAB, Xilinx Vivado, LabVIEW, AutoCAD, Verilog, Embedded C, and C++.
+
 --> Testing Tools: CANoe, CANalyzer.
+
 --> Communication Protocols: UART, SPI, I2C, CAN.
+
 --> MCU Peripheral: GPIO, Timer, ADC, DMA, Interrupt.
+
 --> Code Development IDEs: STM32CUBEIDE/MX, keil, Code Composer Studio, Arduino.
+
 --> Microcontroller/Processor: Easily work with processor based on ARM Cortex M4-M7 32,16 and 8 bit architectures.
