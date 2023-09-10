@@ -1,6 +1,6 @@
-### Hello Friends 👋. 
+## Hello Friends 👋. 
 
-### About Me
+## About Me
 I'm a highly competent Embedded Development Engineer, received my Master's Degree from University of Houston and Bachelor's Degree from Gandhi Institute of Technology and Management (GITAM). 
 
 Experience in Developing applications for Automotive and Embedded Systems projects. Seeking to use development and debugging skills to raise profitability to the company and allow me to future improve my project management skills. I understand the target application project life cycle in depth and I'm very capable at all aspects of development from projects planning to requirements gathering to designing, coding, documentation, support and testing code creating. 
@@ -18,8 +18,8 @@ My technical acumen encompasses a wide array of -
 
 --> Microcontroller/Processor: Easily work with processor based on ARM Cortex M4-M7 32,16 and 8 bit architectures.
 
-### Technical Skills
-## Wired Protocols
+## Technical Skills
+### Wired Protocols
 --> SPI
 --> I2C
 --> UART/USART
@@ -28,7 +28,7 @@ My technical acumen encompasses a wide array of -
 --> USB
 --> Ethernet
 --> I2S (Audio)
-## Wireless Protocols
+### Wireless Protocols
 --> WiFi
 --> Bluetooth Classic
 --> Bluetooth Low Power (BLE)
@@ -37,32 +37,32 @@ My technical acumen encompasses a wide array of -
 --> GSM/LTE
 --> Visible-Light Communication (or VLC, I implemented it for my thesis back in the university)
 --> NFC/RFID
-## Network Protocols
+### Network Protocols
 --> TCP/IP
 --> UDP/IP
-## Security & Integrity
+### Security & Integrity
 --> CRC32
 --> MD5
 --> AES
-## Development Board bring-up
-## Embedded Linux (still learning, mainly use Yocto)
-## Embedded library development
-## RTOS
+### Development Board bring-up
+### Embedded Linux (still learning, mainly use Yocto)
+### Embedded library development
+### RTOS
 --> FreeRTOS
 --> Zephyr
-## Microcontroller
+### Microcontroller
 ESP32 (dual core MCU + WiFi and Bluetooth)
 ESP8266 (single core MCU + WiFi from Espressif)
 STM32 L0, L1, L4, F1 series
 AVR MCU
 Texas Instrument CCxxxx series
-## Hardware Development
+### Hardware Development
 --> Schematic Design
 --> PCB design (still learning! I use KiCad)
 --> Board assembly
 --> Board testing
 --> Power Profiling (to achieve low-power, thus extending battery life)
-## Electronic Equipment I Own
+### Electronic Equipment I Own
 --> 4-channel Oscilloscope
 --> Nice multimeter
 --> Logic Analyzer
